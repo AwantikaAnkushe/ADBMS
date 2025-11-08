@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<database>
+  <items>
+    <item id="1">
+      <title>First post</title>
+      <desc>This is the very first shared post.</desc>
+      <author>Alice</author>
+    </item>
+  </items>
+</database>
